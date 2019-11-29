@@ -7,3 +7,4 @@ Built with Expo CLI
 ```
 npm start
 ```
+The app has been hosted on expo at `https://exp.host/@wekesa931/great-recipes`
