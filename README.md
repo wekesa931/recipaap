@@ -1,4 +1,4 @@
-# recipaap
+# recipapp
 A recipe App - ReactNative
 
 Built with Expo CLI
